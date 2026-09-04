@@ -1,0 +1,8 @@
+{
+  "github_user": "komarkun",
+  "role": "DevOps Engineer -> Platform Engineering",
+  "focus": ["Infra", "Cloud", "K8s", "CI/CD", "GitOps", "Observability"],
+  "building": ["bucket-explorer", "cert-watch"],
+  "operating": ["K3s", "ArgoCD (GitOps)", "Prometheus + Grafana", "Cloudflare"],
+  "learning": ["Kubernetes operators", "internal developer platforms"]
+}

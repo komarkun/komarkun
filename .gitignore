@@ -1,0 +1,8 @@
+# Local scratch
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+
+# The source banner lives in docs/assets/banner.png; keep the original out of the repo
+/gituhubmd.png
