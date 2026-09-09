@@ -37,7 +37,7 @@ Build it. Automate it. Observe it. Improve it.
   OPERATING  K3s · ArgoCD (GitOps) · Prometheus + Grafana · Cloudflare
   LEARNING   Kubernetes operators · internal developer platforms
 
-  updated    2026-09-08 11:18 UTC — auto-refreshed by GitHub Actions
+  updated    2026-09-09 11:21 UTC — auto-refreshed by GitHub Actions
 
 ────────────────────────────────────────────────────────
 ```
