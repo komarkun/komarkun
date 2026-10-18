@@ -37,7 +37,7 @@ Build it. Automate it. Observe it. Improve it.
   OPERATING  K3s · ArgoCD (GitOps) · Prometheus + Grafana · Cloudflare
   LEARNING   Kubernetes operators · internal developer platforms
 
-  updated    2026-10-17 10:42 UTC — auto-refreshed by GitHub Actions
+  updated    2026-10-18 11:02 UTC — auto-refreshed by GitHub Actions
 
 ────────────────────────────────────────────────────────
 ```
@@ -140,7 +140,7 @@ lifecycle — provisioning, GitOps delivery, TLS automation, and observability.
 ```text
 ─── RECENT PUBLIC ACTIVITY ─────────────────────────────
 
-  2026-09-17   neovim                 opened an issue
+  No public activity in the recent window.
 
 ────────────────────────────────────────────────────────
 ```
